@@ -37,6 +37,19 @@
 
 #### Мои проекты:
 
+1. [Job4j_passport](https://github.com/CyberfuzZ-Apps/job4j_passport) - сервис для работы с паспортами. REST API. Стек: Spring Boot 2 (WebMVC, Data JPA / Hibernate, Kafka), Java 11, PostgreSQL, Maven, Docker, Kubernetes.
+
+2. [Job4j_url_shortcut](https://github.com/CyberfuzZ-Apps/job4j_url_shortcut) - позволяет обеспечить безопасность пользователей на сайте заменяя обычные ссылки на преобразованные. Сервис работает через REST API. Стек: Spring Boot 2(WebMVC / Data JPA / Security / JWT), Java 11, PostgreSQL, Maven, Tomcat.
+
+3. [Job4j_chat](https://github.com/CyberfuzZ-Apps/job4j_chat) - REST API для приложения "чат с комнатами". Стек: Java 11, Spring Boot 2(Web MVC, Data JPA, Security/JWT, Validator), PostgreSQL, Maven, Tomcat.
+
+4. [Job4j_forum](https://github.com/CyberfuzZ-Apps/job4j_forum) - веб-приложение, классический форум на разные темы. Использованы технологии: Spring Boot 2 (Web MVC, Data JPA / Hibernate, Security, Tomcat), PostgreSQL, Java 14, Maven, GitHub Actions CI, Codecov. Протестировать можно на [Heroku](https://cyberfuzz-forum.herokuapp.com/).
+
+5. [Job4j_car-accident](https://github.com/CyberfuzZ-Apps/job4j_car_accident) - вэб-приложение для добавления автонарушений. Стек: Java, Spring (Core/WebMVC/Data/Security), Hibernate, PostgreSQL, JSP / JSTL.
+
+6. [Job4j_cars](https://github.com/CyberfuzZ-Apps/job4j_cars) - веб приложение, площадка для продажи автомобилей. Стек: Java EE / Servlets API, Hibernate / JPA, HTML, CSS, JS (jQuery, AJAX), JSP, PostgreSQL, Tomcat, Maven.
+
+7. 
 
 ***
 
