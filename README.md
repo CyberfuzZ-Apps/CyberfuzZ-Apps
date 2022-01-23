@@ -2,6 +2,10 @@
 
 ![Java >= 8](https://img.shields.io/badge/Java-%3E%3D8-orange)
 
+![CyberfuzZ-Apps's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberfuzZ-Apps&show_icons=true&theme=slateorange&hide=stars,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberfuzZ-Apps&theme=slateorange)
+
 <!--
 **CyberfuzZ-Apps/CyberfuzZ-Apps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
