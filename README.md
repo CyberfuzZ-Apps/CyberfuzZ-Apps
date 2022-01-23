@@ -31,9 +31,6 @@
 
 ![Travis](https://img.shields.io/badge/Travis-CI-brightgreen?style=plastic&logo=travisci)
 
-![JUnit](https://img.shields.io/badge/JUnit-%3E%3D4-2f9e66?style=plastic&logo=junit5)
-
-
 
 ![CyberfuzZ-Apps's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberfuzZ-Apps&show_icons=true&theme=slateorange&hide=stars,prs)
 
