@@ -49,7 +49,11 @@
 
 6. [Job4j_cars](https://github.com/CyberfuzZ-Apps/job4j_cars) - веб приложение, площадка для продажи автомобилей. Стек: Java EE / Servlets API, Hibernate / JPA, HTML, CSS, JS (jQuery, AJAX), JSP, PostgreSQL, Tomcat, Maven.
 
-7. 
+7. [Job4j_dreamjob](https://github.com/CyberfuzZ-Apps/job4j_dreamjob) - приложение "биржа работы". Стек: Java EE Servlet API, Tomcat, JDBC, PostgreSQL, JS (jQuery, AJAX), JSP, JSTL, HTML, Log4j, Maven, Travis CI, Codecov.
+
+8. [Job4j_pooh](https://github.com/CyberfuzZ-Apps/job4j_pooh) - аналог асинхронной очереди. Работает по принципу Java Message Service (JMS). Стек: Java SE, Concurrency, Sockets, Java IO.
+
+9. [Job4j_todo](https://github.com/CyberfuzZ-Apps/job4j_todo) - веб-приложение список поставленных задач. Стек: Java EE / Servlets API, Hibernate / JPA, PostgreSQL, HTML, CSS, JSP, JSTL, JavaScript (jQuery, AJAX), Maven, Travis CI, Tomcat.
 
 ***
 
