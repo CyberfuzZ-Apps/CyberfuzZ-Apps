@@ -49,11 +49,17 @@
 
 6. [Job4j_cars](https://github.com/CyberfuzZ-Apps/job4j_cars) - веб приложение, площадка для продажи автомобилей. Стек: Java EE / Servlets API, Hibernate / JPA, HTML, CSS, JS (jQuery, AJAX), JSP, PostgreSQL, Tomcat, Maven.
 
-7. [Job4j_dreamjob](https://github.com/CyberfuzZ-Apps/job4j_dreamjob) - приложение "биржа работы". Стек: Java EE Servlet API, Tomcat, JDBC, PostgreSQL, JS (jQuery, AJAX), JSP, JSTL, HTML, Log4j, Maven, Travis CI, Codecov.
+7. [Job4j_dreamjob](https://github.com/CyberfuzZ-Apps/job4j_dreamjob) - веб-приложение "биржа работы". Стек: Java EE Servlet API, Tomcat, JDBC, PostgreSQL, JS (jQuery, AJAX), JSP, JSTL, HTML, Log4j, Maven, Travis CI, Codecov.
 
 8. [Job4j_pooh](https://github.com/CyberfuzZ-Apps/job4j_pooh) - аналог асинхронной очереди. Работает по принципу Java Message Service (JMS). Стек: Java SE, Concurrency, Sockets, Java IO.
 
 9. [Job4j_todo](https://github.com/CyberfuzZ-Apps/job4j_todo) - веб-приложение список поставленных задач. Стек: Java EE / Servlets API, Hibernate / JPA, PostgreSQL, HTML, CSS, JSP, JSTL, JavaScript (jQuery, AJAX), Maven, Travis CI, Tomcat.
+
+10. [Job4j_cinema](https://github.com/CyberfuzZ-Apps/job4j_cinema) - веб-приложение для заказа билетов на сеанс в кинотеатр. Стек: Java EE Servlet API, Tomcat, JDBC, PostgreSQL, JS (jQuery, AJAX), JSP, HTML, CSS, Log4j, Maven, Travis CI.
+
+11.  [Job4j_grabber](https://github.com/CyberfuzZ-Apps/job4j_grabber) - граббер Java вакансий. Программа считывает все вакансии относящиеся к Java и записывает их в базу данных.
+
+12. [Job4j_tracker](https://github.com/CyberfuzZ-Apps/job4j_tracker) - консольное приложение для трекинга заявок с использованием CRUD-операций (Create, Read, Update, Delete).
 
 ***
 
