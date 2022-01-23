@@ -1,5 +1,7 @@
 ### Hi there 👋 :smiley:
 
+![Java >= 8](https://img.shields.io/badge/Java-%3E%3D8-orange)
+
 <!--
 **CyberfuzZ-Apps/CyberfuzZ-Apps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
