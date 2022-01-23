@@ -1,6 +1,8 @@
 ### Привет! 👋 :smiley: 
 ### Меня зовут Евгений Зайцев. Добро пожаловать в мой репозиторий!:v:
 
+***
+
 #### Обо мне:
 
 - Я Java разработчик из Москвы.
@@ -31,6 +33,12 @@
 
 ![Travis](https://img.shields.io/badge/Travis-CI-brightgreen?style=plastic&logo=travisci)
 
+***
+
+#### Мои проекты:
+
+
+***
 
 ![CyberfuzZ-Apps's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberfuzZ-Apps&show_icons=true&theme=slateorange&hide=stars,prs)
 
