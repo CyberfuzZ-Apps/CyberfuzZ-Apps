@@ -1,6 +1,39 @@
-### Hi there 👋 :smiley:
+### Привет! 👋 :smiley: 
+### Меня зовут Евгений Зайцев. Добро пожаловать в мой репозиторий!:v:
 
-![Java >= 8](https://img.shields.io/badge/Java-%3E%3D8-orange)
+#### Обо мне:
+
+- Я Java разработчик из Москвы.
+- Обучался Java и стажировался здесь - [Job4j](https://job4j.ru/).
+- Опыт работы 1,5 года.
+
+***
+
+<b>Стек технологий:</b>
+
+![Java](https://img.shields.io/badge/Java-%3E%3D8-orange?style=plastic&logo=java)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D12-blue?style=plastic&logo=postgresql)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2-brightgreen?style=plastic&logo=springboot)
+
+![Hibernate](https://img.shields.io/badge/Hibernate-5-bcae79?style=plastic&logo=hibernate)
+
+![Docker](https://img.shields.io/badge/Docker-Engine%20%2F%20Compose-0066FF?style=plastic&logo=docker)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-kubectl-316ce6?style=plastic&logo=kubernetes)
+
+![Kafka](https://img.shields.io/badge/Kafka-3-fcfafa?style=plastic&logo=apachekafka)
+
+![Git](https://img.shields.io/badge/Git-VCS-eb4d2b?style=plastic&logo=git)
+
+![Maven](https://img.shields.io/badge/Maven-3-c02045?style=plastic&logo=apachemaven)
+
+![Travis](https://img.shields.io/badge/Travis-CI-brightgreen?style=plastic&logo=travisci)
+
+![JUnit](https://img.shields.io/badge/JUnit-%3E%3D4-2f9e66?style=plastic&logo=junit5)
+
+
 
 ![CyberfuzZ-Apps's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberfuzZ-Apps&show_icons=true&theme=slateorange&hide=stars,prs)
 
