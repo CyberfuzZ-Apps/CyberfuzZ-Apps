@@ -37,29 +37,29 @@
 
 #### Мои проекты:
 
-1. [Job4j_passport](https://github.com/CyberfuzZ-Apps/job4j_passport) - сервис для работы с паспортами. REST API. Стек: Spring Boot 2 (WebMVC, Data JPA / Hibernate, Kafka), Java 11, PostgreSQL, Maven, Docker, Kubernetes.
+1. [Passport](https://github.com/CyberfuzZ-Apps/job4j_passport) - сервис для работы с паспортами. REST API. Стек: Spring Boot 2 (WebMVC, Data JPA / Hibernate, Kafka), Java 11, PostgreSQL, Maven, Docker, Kubernetes.
 
-2. [Job4j_url_shortcut](https://github.com/CyberfuzZ-Apps/job4j_url_shortcut) - позволяет обеспечить безопасность пользователей на сайте заменяя обычные ссылки на преобразованные. Сервис работает через REST API. Стек: Spring Boot 2(WebMVC / Data JPA / Security / JWT), Java 11, PostgreSQL, Maven, Tomcat.
+2. [Url_shortcut](https://github.com/CyberfuzZ-Apps/job4j_url_shortcut) - позволяет обеспечить безопасность пользователей на сайте заменяя обычные ссылки на преобразованные. Сервис работает через REST API. Стек: Spring Boot 2(WebMVC / Data JPA / Security / JWT), Java 11, PostgreSQL, Maven, Tomcat.
 
-3. [Job4j_chat](https://github.com/CyberfuzZ-Apps/job4j_chat) - REST API для приложения "чат с комнатами". Стек: Java 11, Spring Boot 2(Web MVC, Data JPA, Security/JWT, Validator), PostgreSQL, Maven, Tomcat.
+3. [Chat](https://github.com/CyberfuzZ-Apps/job4j_chat) - REST API для приложения "чат с комнатами". Стек: Java 11, Spring Boot 2(Web MVC, Data JPA, Security/JWT, Validator), PostgreSQL, Maven, Tomcat.
 
-4. [Job4j_forum](https://github.com/CyberfuzZ-Apps/job4j_forum) - веб-приложение, классический форум на разные темы. Использованы технологии: Spring Boot 2 (Web MVC, Data JPA / Hibernate, Security, Tomcat), PostgreSQL, Java 14, Maven, GitHub Actions CI, Codecov. Протестировать можно на [Heroku](https://cyberfuzz-forum.herokuapp.com/).
+4. [Forum](https://github.com/CyberfuzZ-Apps/job4j_forum) - веб-приложение, классический форум на разные темы. Использованы технологии: Spring Boot 2 (Web MVC, Data JPA / Hibernate, Security, Tomcat), PostgreSQL, Java 14, Maven, GitHub Actions CI, Codecov. Протестировать можно на [Heroku](https://cyberfuzz-forum.herokuapp.com/).
 
-5. [Job4j_car-accident](https://github.com/CyberfuzZ-Apps/job4j_car_accident) - вэб-приложение для добавления автонарушений. Стек: Java, Spring (Core/WebMVC/Data/Security), Hibernate, PostgreSQL, JSP / JSTL.
+5. [Car-accident](https://github.com/CyberfuzZ-Apps/job4j_car_accident) - вэб-приложение для добавления автонарушений. Стек: Java, Spring (Core/WebMVC/Data/Security), Hibernate, PostgreSQL, JSP / JSTL.
 
-6. [Job4j_cars](https://github.com/CyberfuzZ-Apps/job4j_cars) - веб приложение, площадка для продажи автомобилей. Стек: Java EE / Servlets API, Hibernate / JPA, HTML, CSS, JS (jQuery, AJAX), JSP, PostgreSQL, Tomcat, Maven.
+6. [Cars](https://github.com/CyberfuzZ-Apps/job4j_cars) - веб приложение, площадка для продажи автомобилей. Стек: Java EE / Servlets API, Hibernate / JPA, HTML, CSS, JS (jQuery, AJAX), JSP, PostgreSQL, Tomcat, Maven.
 
-7. [Job4j_dreamjob](https://github.com/CyberfuzZ-Apps/job4j_dreamjob) - веб-приложение "биржа работы". Стек: Java EE Servlet API, Tomcat, JDBC, PostgreSQL, JS (jQuery, AJAX), JSP, JSTL, HTML, Log4j, Maven, Travis CI, Codecov.
+7. [Dreamjob](https://github.com/CyberfuzZ-Apps/job4j_dreamjob) - веб-приложение "биржа работы". Стек: Java EE Servlet API, Tomcat, JDBC, PostgreSQL, JS (jQuery, AJAX), JSP, JSTL, HTML, Log4j, Maven, Travis CI, Codecov.
 
-8. [Job4j_pooh](https://github.com/CyberfuzZ-Apps/job4j_pooh) - аналог асинхронной очереди. Работает по принципу Java Message Service (JMS). Стек: Java SE, Concurrency, Sockets, Java IO.
+8. [Pooh](https://github.com/CyberfuzZ-Apps/job4j_pooh) - аналог асинхронной очереди. Работает по принципу Java Message Service (JMS). Стек: Java SE, Concurrency, Sockets, Java IO.
 
-9. [Job4j_todo](https://github.com/CyberfuzZ-Apps/job4j_todo) - веб-приложение список поставленных задач. Стек: Java EE / Servlets API, Hibernate / JPA, PostgreSQL, HTML, CSS, JSP, JSTL, JavaScript (jQuery, AJAX), Maven, Travis CI, Tomcat.
+9. [Todo](https://github.com/CyberfuzZ-Apps/job4j_todo) - веб-приложение список поставленных задач. Стек: Java EE / Servlets API, Hibernate / JPA, PostgreSQL, HTML, CSS, JSP, JSTL, JavaScript (jQuery, AJAX), Maven, Travis CI, Tomcat.
 
-10. [Job4j_cinema](https://github.com/CyberfuzZ-Apps/job4j_cinema) - веб-приложение для заказа билетов на сеанс в кинотеатр. Стек: Java EE Servlet API, Tomcat, JDBC, PostgreSQL, JS (jQuery, AJAX), JSP, HTML, CSS, Log4j, Maven, Travis CI.
+10. [Cinema](https://github.com/CyberfuzZ-Apps/job4j_cinema) - веб-приложение для заказа билетов на сеанс в кинотеатр. Стек: Java EE Servlet API, Tomcat, JDBC, PostgreSQL, JS (jQuery, AJAX), JSP, HTML, CSS, Log4j, Maven, Travis CI.
 
-11.  [Job4j_grabber](https://github.com/CyberfuzZ-Apps/job4j_grabber) - граббер Java вакансий. Программа считывает все вакансии относящиеся к Java и записывает их в базу данных.
+11.  [Grabber](https://github.com/CyberfuzZ-Apps/job4j_grabber) - граббер Java вакансий. Программа считывает все вакансии относящиеся к Java и записывает их в базу данных.
 
-12. [Job4j_tracker](https://github.com/CyberfuzZ-Apps/job4j_tracker) - консольное приложение для трекинга заявок с использованием CRUD-операций (Create, Read, Update, Delete).
+12. [Tracker](https://github.com/CyberfuzZ-Apps/job4j_tracker) - консольное приложение для трекинга заявок с использованием CRUD-операций (Create, Read, Update, Delete).
 
 ***
 
